@@ -1,0 +1,9 @@
+C:\Users\lj\Documents\Visual Studio 2008\Projects\ArcGISTools\ArcGISTools\obj\x86\Release\ArcGISTools.csproj.ResolveComReference.cache
+C:\Users\lj\Documents\Visual Studio 2008\Projects\ArcGISTools\ArcGISTools\bin\x86\Release\ArcGISTools.exe
+C:\Users\lj\Documents\Visual Studio 2008\Projects\ArcGISTools\ArcGISTools\bin\x86\Release\ArcGISTools.pdb
+C:\Users\lj\Documents\Visual Studio 2008\Projects\ArcGISTools\ArcGISTools\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\lj\Documents\Visual Studio 2008\Projects\ArcGISTools\ArcGISTools\obj\x86\Release\ArcGISTools.Form1.resources
+C:\Users\lj\Documents\Visual Studio 2008\Projects\ArcGISTools\ArcGISTools\obj\x86\Release\ArcGISTools.Properties.Resources.resources
+C:\Users\lj\Documents\Visual Studio 2008\Projects\ArcGISTools\ArcGISTools\obj\x86\Release\ArcGISTools.csproj.GenerateResource.Cache
+C:\Users\lj\Documents\Visual Studio 2008\Projects\ArcGISTools\ArcGISTools\obj\x86\Release\ArcGISTools.exe
+C:\Users\lj\Documents\Visual Studio 2008\Projects\ArcGISTools\ArcGISTools\obj\x86\Release\ArcGISTools.pdb

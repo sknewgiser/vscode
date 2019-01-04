@@ -1,0 +1,15 @@
+C:\Users\lj\Documents\Visual Studio 2008\Projects\ArcGISTools\ArcGISTools\bin\Debug\ArcGISTools.exe
+C:\Users\lj\Documents\Visual Studio 2008\Projects\ArcGISTools\ArcGISTools\bin\Debug\ArcGISTools.pdb
+C:\Users\lj\Documents\Visual Studio 2008\Projects\ArcGISTools\ArcGISTools\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lj\Documents\Visual Studio 2008\Projects\ArcGISTools\ArcGISTools\obj\Debug\ArcGISTools.Properties.Resources.resources
+C:\Users\lj\Documents\Visual Studio 2008\Projects\ArcGISTools\ArcGISTools\obj\Debug\ArcGISTools.csproj.GenerateResource.Cache
+C:\Users\lj\Documents\Visual Studio 2008\Projects\ArcGISTools\ArcGISTools\obj\Debug\ArcGISTools.exe
+C:\Users\lj\Documents\Visual Studio 2008\Projects\ArcGISTools\ArcGISTools\obj\Debug\ArcGISTools.pdb
+C:\Users\lj\Documents\Visual Studio 2008\Projects\ArcGISTools\ArcGISTools\obj\Debug\ArcGISTools.Form1.resources
+F:\编程开发\闫明\ArcGISTools\ArcGISTools\obj\Debug\ArcGISTools.exe
+F:\编程开发\闫明\ArcGISTools\ArcGISTools\obj\Debug\ArcGISTools.pdb
+F:\编程开发\闫明\ArcGISTools\ArcGISTools\bin\Debug\ArcGISTools.exe
+F:\编程开发\闫明\ArcGISTools\ArcGISTools\bin\Debug\ArcGISTools.pdb
+F:\编程开发\闫明\ArcGISTools\ArcGISTools\obj\Debug\ArcGISTools.Form1.resources
+F:\编程开发\闫明\ArcGISTools\ArcGISTools\obj\Debug\ArcGISTools.Properties.Resources.resources
+F:\编程开发\闫明\ArcGISTools\ArcGISTools\obj\Debug\ArcGISTools.csproj.GenerateResource.Cache
